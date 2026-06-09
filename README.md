@@ -121,7 +121,7 @@ This project was created to practice:
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/javascript-array-exercises.git
+git clone https://github.com/GustavoPGCordeiro/javascript-array-exercises.git
 ```
 
 2. Open the project folder.
